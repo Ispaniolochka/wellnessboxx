@@ -1,4 +1,5 @@
 var $button = $('#menu-btn');
+// var $button = $('#menu-footer');
 
 $button.on('click', function(e){
     e.preventDefault();
