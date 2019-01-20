@@ -304,8 +304,8 @@ i {
     font-size: 18px;
 }
 .payment {
-        display: none;
-    }
+    display: none;
+}
 @media (min-width: 768px) {
     .wrapper {
         max-width: 768px;
@@ -533,7 +533,7 @@ i {
             margin-left: 40px;
         }
         .img-second {
-           margin-right: 40px;
+            margin-right: 40px;
         }
         .main-title-second {
             font-size: 46px;
@@ -575,25 +575,25 @@ i {
         .burger-menu-list {
             margin-top: 105px;
         }
-    
-    .payment {
-        display: block;
-        padding-top: 30px;
-    }
-    .payment-img {
-        width: 330px;
-        margin-right: 40px;
-        margin-left: 45px;
-    }
-    .title-order {
-        font-size: 36px;
-        margin-top: 15px;
-    }    
-    .text-order {
-        font-size: 30px;
-        margin-left: 75px;
-    }
-    .link-order {
-        font-size: 24px;
-        margin-left: 80px;
-    }
+        .payment {
+            display: block;
+            padding-top: 30px;
+        }
+        .payment-img {
+            width: 330px;
+            margin-right: 40px;
+            margin-left: 45px;
+        }
+        .title-order {
+            font-size: 36px;
+            margin-top: 15px;
+        }
+        .text-order {
+            font-size: 30px;
+            margin-left: 75px;
+        }
+        .link-order {
+            font-size: 24px;
+            margin-left: 80px;
+        }
+        
